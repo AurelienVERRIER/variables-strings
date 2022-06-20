@@ -31,4 +31,4 @@ const template = `I'm ${age} years old`
 console.log(template)
 
 const text = "Bonjour"
-console.log(text)
+console.log(text.replaceAll("o", "a"))
