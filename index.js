@@ -29,3 +29,6 @@ console.log(letters)
 const age = "42"
 const template = `I'm ${age} years old`
 console.log(template)
+
+const text = "Bonjour"
+console.log(text)
